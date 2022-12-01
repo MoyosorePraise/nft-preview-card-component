@@ -22,7 +22,7 @@
 
 ### Links
 - Solution URL: [https://github.com/MoyosorePraise/nft-preview-card-component]
-- Live Site URL: [https://moyosorepraise.github.io/nft-preview-card-componentt/]
+- Live Site URL: [https://moyosorepraise.github.io/nft-preview-card-component/]
 
 ## My process
 ### Built with
